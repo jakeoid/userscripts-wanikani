@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/hBPI5Qa.png" align="right" />
+<img src="https://i.imgur.com/YXjaQk5.png" align="right" />
 
 # userscripts-wanikani
 
@@ -16,7 +16,7 @@ Shows the amount of reviews/lessons in the title of the webpage!
 
 <img src="https://i.imgur.com/9qSvs7X.png" align="center" />
 
-## Userstyle
+## Userscript Extensions
 
 - Firefox - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 - Chrome - [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
