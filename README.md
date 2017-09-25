@@ -3,7 +3,6 @@
 # userscripts-wanikani
 
 [![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/jakeoid/waste-basket/blob/master/LICENSE.md)
-[![Ubersicht](https://img.shields.io/badge/%C3%BCbersicht-CoffeeScript-brightgreen.svg)](http://http://tracesof.net/uebersicht/)
 
 These userscipts do various things in order to improve your experience on WaniKani!
 
