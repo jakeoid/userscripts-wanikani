@@ -13,6 +13,7 @@ These userscipts do various things in order to improve your experience on WaniKa
 Shows the amount of reviews/lessons in the title of the webpage!
 
 [Install](https://raw.githubusercontent.com/jakeoid/userscripts-wanikani/master/wanikani-titlebar.user.js)
+[GreasyFork](https://greasyfork.org/en/scripts/33500-wanikani-titlebar)
 
 <img src="https://i.imgur.com/9qSvs7X.png" align="center" />
 
