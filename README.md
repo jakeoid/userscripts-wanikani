@@ -14,8 +14,17 @@ Shows the amount of reviews/lessons in the title of the webpage!
 
 [Install](https://raw.githubusercontent.com/jakeoid/userscripts-wanikani/master/wanikani-titlebar.user.js)
 [GreasyFork](https://greasyfork.org/en/scripts/33500-wanikani-titlebar)
+[WaniKani Forum](https://community.wanikani.com/t/userscript-wanikani-titlebar/19880)
 
 <img src="https://i.imgur.com/9qSvs7X.png" align="center" />
+
+### wanikani-shortcuts.user.js
+
+Adds a whole bunch of keyboard shortcuts to WaniKani!
+
+[Install](https://raw.githubusercontent.com/jakeoid/userscripts-wanikani/master/keyboard-shortcuts.user.js)
+[GreasyFork](https://greasyfork.org/en/scripts/33920-wanikani-keyboard-shortcuts)
+[WaniKani Forum]()
 
 ## Userscript Extensions
 
